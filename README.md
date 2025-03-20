@@ -56,6 +56,7 @@ com código reutilizável para futuras análises no Power BI;
 - [ ] Identificar quais países têm aumentado a importação de produtos específicos de cada Estado brasileiro;
 - [ ] Buscar e filtrar para pesquisa de cargas e análise específica;
 - [ ] Desenvolvimetno do back-end em Python 3+;
+
 ## Sprint 2
 ### Geografia dos fluxos
 - [ ] Identificar em quais localidades (Unidades de Receita Federal) são processadas as exportações de cada Estado;
@@ -70,7 +71,13 @@ com código reutilizável para futuras análises no Power BI;
 
 ## Sprint 3
 ### Estudo de Sazonalidade
-- [ ] Identificar em quais localidades ()
+- [ ] Descobrir se existem padrões sazonais nas exportações de determinados produtos;
+- [ ] Pesquisar como as empresas locais lidam com as variações;
+### Análise de Tendência e Projeção 
+- [ ] Identificar quais as tendências de exportação;
+- [ ] Detectar a possibilidade de criação de um modelo de projeção futura;
+### Análise de Risco
+- [ ] Descobrir quais os riscos associados à dependência de mercados específicos ou de poucos parceiros comercias;
       
 ## Sprint 4
 - [ ] Defina o propósito do template;
