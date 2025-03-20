@@ -45,20 +45,19 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-# Análise comparativa regional 
+### Análise comparativa regional 
 - [ ]Como o desempenho comercial de um Estado se compara aos outros?
 - [ ] Segmentação por Estado;
 - [ ] Apresentar dados detalhados sobre exportação, a partir da segmentação;
 - [ ] Normalização e análise inicial dos dados no Google Colab;
 - [ ] A partir ds dados no Google Colab, utilizar bases públicas de comércio exterior,
 com código reutilizável para futuras análises no Power BI;
-
-## Sprint 2
 # Identificação de mercados emergentes
 - [ ] Identificar quais países têm aumentado a importação de produtos específicos de cada Estado brasileiro;
 - [ ] Buscar e filtrar para pesquisa de cargas e análise específica;
 - [ ] Desenvolvimetno do back-end em Python 3+;
-      
+## Sprint 2
+- [ ] 
 ## Sprint 3
 # Geografia dos fluxos
 - [ ] Identificar em quais localidades ()
