@@ -46,7 +46,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Sprint 1
 ### Análise comparativa regional 
-- [ ]Como o desempenho comercial de um Estado se compara aos outros?
+- [ ] Como o desempenho comercial de um Estado se compara aos outros?
 - [ ] Segmentação por Estado;
 - [ ] Apresentar dados detalhados sobre exportação, a partir da segmentação;
 - [ ] Normalização e análise inicial dos dados no Google Colab;
