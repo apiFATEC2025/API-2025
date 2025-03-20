@@ -57,9 +57,19 @@ com código reutilizável para futuras análises no Power BI;
 - [ ] Buscar e filtrar para pesquisa de cargas e análise específica;
 - [ ] Desenvolvimetno do back-end em Python 3+;
 ## Sprint 2
-- [ ] 
+### Geografia dos fluxos
+- [ ] Identificar em quais localidades (Unidades de Receita Federal) são processadas as exportações de cada Estado;
+- [ ] Desenvolver um painel de Estatísticas interativo, exibindo a balança comercial de 2022 a 2024;
+- [ ] Desenvolver o front-end no Power BI;
+### Diversificação de produtos
+- [ ] Detectar se os estados concentram suas exportações em poucos produtos ou apresentam uma pauta diversificada;
+- [ ] Utilizar o GitHub para controle de versão dos artefatos do projeto;
+### Análises de vias de transporte
+- [ ] Pesquisar quais são os principais modais de transporte utilizados para escoar exportações em nível internacional;
+- [ ] Sistema responsivo, adaptável a diferentes dispositivos;
+
 ## Sprint 3
-# Geografia dos fluxos
+### Estudo de Sazonalidade
 - [ ] Identificar em quais localidades ()
       
 ## Sprint 4
