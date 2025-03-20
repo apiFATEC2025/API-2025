@@ -26,7 +26,53 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 | Team Member |  <a href="https://github.com/ComexSmart/ComexSmart/commit/d1dde23d589f9f41f6e0fdfe27bd11fc41be94eb"><img src= "https://github.com/user-attachments/assets/6426dc19-9d1f-4482-8c45-59e606b2c631" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Júlia Caraça</p>|     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-caraca-de-sousa/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/juliacaraca)            |
 |  Team Member  | Anne Beatriz                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
 
+# Objetivo do Projeto
+Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+* Centralizar os trabalhos e projetos;
+* Organizar e estruturar as informações;
+* Versionar e controlar as alterações;
+* Facilitar o compartilhamento e feedback;
+* Desenvolver habilidades técnicas.
 
+## Tecnologias Utilizadas
+
+ ### Tecnologias Específicas/Apoio
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+  
+ ### Tecnologias da Informação
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+
+# Backlog do produto
+
+## Sprint 1
+# Análise comparativa regional 
+- [ ]Como o desempenho comercial de um Estado se compara aos outros?
+- [ ] Segmentação por Estado;
+- [ ] Apresentar dados detalhados sobre exportação, a partir da segmentação;
+- [ ] Normalização e análise inicial dos dados no Google Colab;
+- [ ] A partir ds dados no Google Colab, utilizar bases públicas de comércio exterior,
+com código reutilizável para futuras análises no Power BI;
+
+## Sprint 2
+# Identificação de mercados emergentes
+- [ ] Identificar quais países têm aumentado a importação de produtos específicos de cada Estado brasileiro;
+- [ ] Buscar e filtrar para pesquisa de cargas e análise específica;
+- [ ] Desenvolvimetno do back-end em Python 3+;
+      
+## Sprint 3
+# Geografia dos fluxos
+- [ ] Identificar em quais localidades ()
+      
+## Sprint 4
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
 
 
 
@@ -40,3 +86,5 @@ Sprint | Previsão | Status| Histórico|
 |03| 14/05/2025 | a fazer|[MVP](https://) | 
 |04| 25/06/2025 |a fazer |[MVP](https://)  | 
 |Feira de Soluções|29/05/2025 |a fazer |[MVP](https://) | 
+Análise comparativa regional: Como o desempenho comercial de um Estado se compara ao de outros? Segmentação por Estado, apresentando dados detalhados sobre exportação. Normalização e análise inicial dos dados no Google Colab, utilizando bases públicas de comércio exterior, com código reutilizável para futuras análises no Power BI.
+![image](https://github.com/user-attachments/assets/a39b64f0-efa8-4a28-8a1b-6e1142e4ef5a)
