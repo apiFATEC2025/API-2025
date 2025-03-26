@@ -52,7 +52,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Normalização e análise inicial dos dados no Google Colab;
 - [ ] A partir ds dados no Google Colab, utilizar bases públicas de comércio exterior,
 com código reutilizável para futuras análises no Power BI;
-# Identificação de mercados emergentes
+### Identificação de mercados emergentes
 - [ ] Identificar quais países têm aumentado a importação de produtos específicos de cada Estado brasileiro;
 - [ ] Buscar e filtrar para pesquisa de cargas e análise específica;
 - [ ] Desenvolvimetno do back-end em Python 3+;
