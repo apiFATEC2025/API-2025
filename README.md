@@ -102,5 +102,3 @@ Sprint | Previsão | Status| Histórico|
 |03| 14/05/2025 | a fazer|[MVP](https://) | 
 |04| 25/06/2025 |a fazer |[MVP](https://)  | 
 |Feira de Soluções|29/05/2025 |a fazer |[MVP](https://) | 
-Análise comparativa regional: Como o desempenho comercial de um Estado se compara ao de outros? Segmentação por Estado, apresentando dados detalhados sobre exportação. Normalização e análise inicial dos dados no Google Colab, utilizando bases públicas de comércio exterior, com código reutilizável para futuras análises no Power BI.
-![image](https://github.com/user-attachments/assets/a39b64f0-efa8-4a28-8a1b-6e1142e4ef5a)
