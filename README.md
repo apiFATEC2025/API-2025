@@ -15,7 +15,7 @@ Os projetos aplicam conceitos de diferentes disciplinas para resolver problemas 
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+Analisar a geografia dos fluxos de exportação do Brasil, com foco na identificação das origens das cargas, nos modais de transporte utilizados e nos países de destino das mercadorias. Utilizando dados da base ComexStat (Base 1 - NCM) para o período de 2022 a 2024, o estudo busca entender as principais regiões exportadoras do país, os processos aduaneiros envolvidos e as rotas de exportação. Além disso, será analisada a relação entre o tipo de produto e o modal de transporte adotado, proporcionando uma visão detalhada sobre o comércio exterior brasileiro.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -28,20 +28,18 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Criar um visualizador capaz de identificar a origem das cargas e os modais no período de 2022 a 2024 de acordo com a geografia dos fluxos de exportação do Brasil
 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Python
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Jira;
+ > Tabela de NCM;
+ > GitHub;
+
 
 # Backlog do produto
 
@@ -81,17 +79,10 @@ com código reutilizável para futuras análises no Power BI;
 - [ ] Descobrir quais os riscos associados à dependência de mercados específicos ou de poucos parceiros comercias;
       
 ## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
-
+- [ ] Visualizar os principais países de destino das exportações;
+- [ ] Demonstrar comparações entre destinos e modais utilizados;
+- [ ] Analisar a eficiência logística de diferentes mercados;
+- [ ] Vizualizar oportunidades de otimização para novos mercados;
 
 
 # Registro das Sprints
